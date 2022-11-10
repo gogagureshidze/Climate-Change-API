@@ -91,7 +91,7 @@ newspapers.forEach(newspaper => {
 
 
 app.get('/', (req, res) =>{
-     res.json("Climate API")
+     res.json("Climate API By Goga")
 })
 
 
